@@ -4,7 +4,7 @@ public class CurrencyConverter {
 
     	double cadvalue, usdvalue, eurvalue, usd, eur;
     		
-    		cadvalue = 5;
+    		cadvalue = 6;
     		usdvalue = 0.75;
     		eurvalue = 0.68;
 
